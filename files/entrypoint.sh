@@ -2,9 +2,9 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-WEB_USERNAME=${WEB_USERNAME:-'admin'}
-WEB_PASSWORD=${WEB_PASSWORD:-'password'}
+UUID=${UUID:-'ef2aa1fe-2fb6-4fe3-84fd-e5ee98b2a0cf'}
+WEB_USERNAME=${WEB_USERNAME:-'back4app'}
+WEB_PASSWORD=${WEB_PASSWORD:-'backappadmin'}
 
 generate_config() {
   cat > config.json << EOF
